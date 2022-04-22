@@ -1,0 +1,8 @@
+name: KrFamily-KrTrade
+version: '${project.version}'
+main: krmcplugins.kokored.website.krfamilykrtrade.KrTrade
+api-version: 1.18
+softdepend: [ KrFamily_KrCore ]
+authors: [ Koko_red7214 ]
+description: .
+website: https://krmcplugins.kokored.website/KrTrade
